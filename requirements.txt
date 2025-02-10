@@ -1,0 +1,11 @@
+streamlit
+streamlit_option_menu
+joblib
+numpy
+matplotlib
+pandas
+seaborn
+importlib
+streamlit-autorefresh
+requests
+json
