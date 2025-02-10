@@ -18,7 +18,7 @@ O projeto de estação metereológica é uma iniciativa que visa facilitar a man
 
 -	O Microcontrolador ESP32 NodeMCU;
 - Sensor BME280;
--	Página Web;
+-	Página Web, para executar ela use: streamlit run app.py;
 -	Os dados serão armazenados na Web e resgatados com o powerBI para análise;
 -	Computadores, protoboard, jumpers são os recursos de hardware usados para desenvolver, testar e programar o ESP32.
 
